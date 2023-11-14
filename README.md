@@ -4,7 +4,7 @@
 <br/>
 <p align="center">
 <img src="logo.png" alt="image" width="400" height="300">
-  <a href="https://github.com/MonkCodes/Aplha-X">
+  <a href="https://github.com/Monk-Codes/Aplha-X">
   </a>
   <h3 align="center">Crown Bank</h3>
 
@@ -12,18 +12,18 @@
     Banking Landing Page
     <br/>
     <br/>
-    <a href="https://github.com/MonkCodes/crownbank"><strong>Private Bank Landing Page »</strong></a>
+    <a href="https://github.com/Monk-Codes/crownbank"><strong>Private Bank Landing Page »</strong></a>
     <br/>
     <br/>
-    <a href="https://github.com/MonkCodes/crownbank">View Demo</a>
+    <a href="https://github.com/Monk-Codes/crownbank">View Demo</a>
     .
-    <a href="https://github.com/MonkCodes/crownbank/issues">Report Bug</a>
+    <a href="https://github.com/Monk-Codes/crownbank/issues">Report Bug</a>
     .
-    <a href="https://github.com/MonkCodes/crownbank/issues">Request Feature</a>
+    <a href="https://github.com/Monk-Codes/crownbank/issues">Request Feature</a>
   </p>
 </p>
 
-![Forks](https://img.shields.io/github/forks/MonkCodes/crownbank?style=social) ![Stargazers](https://img.shields.io/github/stars/MonkCodes/crownbank?style=social) 
+![Forks](https://img.shields.io/github/forks/Monk-Codes/crownbank?style=social) ![Stargazers](https://img.shields.io/github/stars/Monk-Codes/crownbank?style=social) 
 
 ## Table Of Contents
 
@@ -63,7 +63,7 @@ To get a local copy up and running follow these simple example steps.
 
 ## Roadmap
 
-See the [open issues](https://github.com/MonkCodes//issues) for a list of proposed features (and known issues).
+See the [open issues](https://github.com/Monk-Codes//issues) for a list of proposed features (and known issues).
 
 ### Creating A Pull Request
 
